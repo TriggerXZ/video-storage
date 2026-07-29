@@ -1,0 +1,9 @@
+# Ignorar archivos temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Mantener estructura de carpetas
+!videos/
+!videos/.gitkeep
